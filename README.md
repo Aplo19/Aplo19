@@ -11,7 +11,7 @@
 
 - ⚡ Dato curioso **- Tengo buen sentido del humor 😄 y me encanta transformar ideas en interfaces usables.**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
