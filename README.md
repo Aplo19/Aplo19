@@ -1,4 +1,4 @@
-<h1 align="center">HHola 👋, soy Adrián Paolo Salvador Mendieta</h1>
+<h1 align="center">Hola 👋, soy Adrián Paolo Salvador Mendieta</h1>
 <h3 align="center">Un apasionado desarrollador frontend de Perú 🇵🇪</h3>
 
 - 🌱 Estoy aprendiendo ****TypeScript**, **React + Vite**, y buenas prácticas en **testing frontend**.**
