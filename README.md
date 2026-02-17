@@ -1,5 +1,5 @@
 <h1 align="center">Hola, soy Adrián Paolo Salvador Mendieta</h1>
-<h3 align="center">Estudiante de Ingeniería de Software | Desarrollador Full Stack | Perú 🇵🇪</h3>
+<h3 align="center"> Desarrollador Full Stack | Perú 🇵🇪</h3>
 
 - Me enfoco en construir aplicaciones web **modernas, seguras y escalables**.
 - Tengo experiencia en **frontend y backend** con enfoque en arquitectura y buenas prácticas.
