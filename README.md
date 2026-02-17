@@ -4,7 +4,7 @@
 - Me enfoco en construir aplicaciones web **modernas, seguras y escalables**.
 - Tengo experiencia en **frontend y backend** con enfoque en arquitectura y buenas prácticas.
 - Fui **Desarrollador Web / Líder de Área** en **NEON HOUSE LED SAC** *(Oct 2025 - Ene 2026)*.
-- También trabajé como **Asistente Técnico** en **J&M Fotocopiadoras** *(2022 - 2025)*.
+
 
 ### Tecnologías principales
 - **Frontend:** React, JavaScript, TypeScript, Tailwind CSS, HTML, CSS, Next.js
