@@ -3,7 +3,7 @@
 
 - Me enfoco en construir aplicaciones web **modernas, seguras y escalables**.
 - Tengo experiencia en **frontend y backend** con enfoque en arquitectura y buenas prácticas.
-- Fui **Desarrollador Web / Líder de Área** en **NEON HOUSE LED SAC** *(Oct 2025 - Ene 2026)*.
+- Fui **Desarrollador Web / Líder de Área** en **NEON HOUSE LED SAC** 
 
 
 ### Tecnologías principales
